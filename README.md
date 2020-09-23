@@ -6,4 +6,4 @@ At ur first attempt to view the home you be redirected to register since no acco
 Then register and login in, you will see and empty screen, just click me add new blog, 
 If u wish to add another account you will find out the on the home a all the blogs of all users will be displayed. 
 Link to page 👇
-https://aksamlwanga.github.io/js-assigment-my-blog/templates//register.html
+https://aksamlwanga.github.io/js-assigment-my-blog/templates/home.html
